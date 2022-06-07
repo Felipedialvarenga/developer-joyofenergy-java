@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 import org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;
 import uk.tw.energy.allElectricityReading.ElectricityReading;
-import uk.tw.energy.domain.PricePlan;
+import uk.tw.energy.allPricePlan.PricePlan;
 import uk.tw.energy.allElectricityReading.ElectricityReadingsGenerator;
 
 import java.math.BigDecimal;
