@@ -1,4 +1,4 @@
-package uk.tw.energy.controller;
+package uk.tw.energy.allMeterReading;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
