@@ -1,5 +1,6 @@
 package uk.tw.energy.allMeterReading;
 
+import uk.tw.energy.allElectricityReading.ElectricityReading;
 import java.util.List;
 
 public class MeterReadings {
